@@ -1,1 +1,17 @@
-{ [] }
+{
+  "lanchonetes": [
+    {
+      "nome": "Buger King Paissandu",
+      "tipo": "hanburger",
+      "endereco": "Av Agameno Magalhaes, esquina com Paissandu",
+      "cidade": "Recife",
+      "estado": "PE",
+      "fone": "(81)-4044-3000",
+      "whatsapp": "",
+      "site": "www.burgerkingcom.br",
+      "apps": [
+        "ifood"
+      ]
+    }
+  ]
+}
