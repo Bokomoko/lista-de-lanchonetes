@@ -43,3 +43,6 @@ git checkout -b <nomeQueVocêQuiserParaSuaBranch>
 git add lista-lanchonetes.json
 git commit -m <coloque aqui uma mensagem sobre a alteração que fez>
 git push
+```
+
+Após completar o push, vá ao site do [repositório no Github](<https://github.com/Bokomoko/lista-de-lanchonetes>) e crie um pull request. agora é só esperar que em tempo a sua contribuição será adicionada
